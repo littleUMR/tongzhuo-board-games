@@ -1,0 +1,4 @@
+{
+ "carcassonne":{"name":"卡卡颂","english":"CARCASSONNE","edition":"基础版","minPlayers":2,"maxPlayers":5,"duration":"35–60 分钟","category":"策略 · 地块拼接","description":"轮流拼接城市、道路与田野，派出随从争取得分。一块地，一条路，一座属于你们的城。","cover":"/assets/cover-carcassonne.png"},
+ "incangold":{"name":"印加寻宝","english":"INCAN GOLD","edition":"神器版","minPlayers":3,"maxPlayers":8,"duration":"20–40 分钟","category":"冒险 · 同时抉择","description":"探索古老神庙，平分发现的宝石。每一步同时选择继续或返回：带走财富，还是冒险寻找独占的神器？","cover":"/assets/incan/temple.png"}
+}
