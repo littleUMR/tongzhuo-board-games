@@ -1,0 +1,12 @@
+{
+ "source":"Hans im Glück Big Box rulebook, base-game A-X tile list, page 22",
+ "url":"https://www.hans-im-glueck.de/wp-content/uploads/2023/06/Carc-Big-Box_Rulebook_EN-komprimiert.pdf-komprimiert_1.pdf",
+ "counts":[2,4,1,4,5,2,1,3,2,3,3,3,2,3,2,3,1,3,2,1,8,9,4,1],
+ "edges":["FFRF","FFFF","CCCC","CRFR","CFFF","CFCF","CFCF","CFCF","CCFF","CRRF","CFRR","CRRR","CCFF","CCFF","CCRR","CCRR","CCCF","CCCF","CCCR","CCCR","RFRF","RFFR","RRFR","RRRR"],
+ "cities":[[],[],[[0,1,2,3]],[[0]],[[0]],[[0,2]],[[0,2]],[[0],[2]],[[0],[1]],[[0]],[[0]],[[0]],[[0,1]],[[0,1]],[[0,1]],[[0,1]],[[0,1,2]],[[0,1,2]],[[0,1,2]],[[0,1,2]],[],[],[],[]],
+ "roads":[[[2]],[],[],[[1,3]],[],[],[],[],[],[[1,2]],[[2,3]],[[1],[2],[3]],[],[],[[2,3]],[[2,3]],[],[],[[3]],[[3]],[[0,2]],[[0,3]],[[0],[1],[3]],[[0],[1],[2],[3]]],
+ "fields":[1,1,0,2,1,2,2,1,1,2,2,3,1,1,2,2,1,1,2,2,2,2,3,4],
+ "shields":["C","F","M","O","Q","S"],
+ "monasteries":["A","B"],
+ "start":"D"
+}
