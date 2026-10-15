@@ -1,0 +1,32 @@
+[
+  {
+    "id": "anya-0",
+    "name": "你好",
+    "file": "0.png"
+  },
+  {
+    "id": "anya-1",
+    "name": "嘿嘿",
+    "file": "1.png"
+  },
+  {
+    "id": "anya-2",
+    "name": "赢啦",
+    "file": "2.png"
+  },
+  {
+    "id": "anya-3",
+    "name": "哭哭",
+    "file": "3.png"
+  },
+  {
+    "id": "anya-4",
+    "name": "思考",
+    "file": "4.png"
+  },
+  {
+    "id": "anya-5",
+    "name": "震惊",
+    "file": "5.png"
+  }
+]
