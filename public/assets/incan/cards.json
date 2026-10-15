@@ -1,0 +1,218 @@
+{
+  "edition": "经典神器版",
+  "rounds": 5,
+  "minPlayers": 3,
+  "maxPlayers": 8,
+  "cards": [
+    {
+      "id": "t0",
+      "kind": "treasure",
+      "value": 1,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t1",
+      "kind": "treasure",
+      "value": 2,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t2",
+      "kind": "treasure",
+      "value": 3,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t3",
+      "kind": "treasure",
+      "value": 4,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t4",
+      "kind": "treasure",
+      "value": 5,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t5",
+      "kind": "treasure",
+      "value": 5,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t6",
+      "kind": "treasure",
+      "value": 7,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t7",
+      "kind": "treasure",
+      "value": 7,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t8",
+      "kind": "treasure",
+      "value": 9,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t9",
+      "kind": "treasure",
+      "value": 11,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t10",
+      "kind": "treasure",
+      "value": 11,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t11",
+      "kind": "treasure",
+      "value": 13,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t12",
+      "kind": "treasure",
+      "value": 14,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t13",
+      "kind": "treasure",
+      "value": 15,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "t14",
+      "kind": "treasure",
+      "value": 17,
+      "image": "/assets/incan/treasure.png"
+    },
+    {
+      "id": "spiders0",
+      "kind": "hazard",
+      "hazard": "spiders",
+      "image": "/assets/incan/spiders.png"
+    },
+    {
+      "id": "spiders1",
+      "kind": "hazard",
+      "hazard": "spiders",
+      "image": "/assets/incan/spiders.png"
+    },
+    {
+      "id": "spiders2",
+      "kind": "hazard",
+      "hazard": "spiders",
+      "image": "/assets/incan/spiders.png"
+    },
+    {
+      "id": "snakes0",
+      "kind": "hazard",
+      "hazard": "snakes",
+      "image": "/assets/incan/snakes.png"
+    },
+    {
+      "id": "snakes1",
+      "kind": "hazard",
+      "hazard": "snakes",
+      "image": "/assets/incan/snakes.png"
+    },
+    {
+      "id": "snakes2",
+      "kind": "hazard",
+      "hazard": "snakes",
+      "image": "/assets/incan/snakes.png"
+    },
+    {
+      "id": "fire0",
+      "kind": "hazard",
+      "hazard": "fire",
+      "image": "/assets/incan/fire.png"
+    },
+    {
+      "id": "fire1",
+      "kind": "hazard",
+      "hazard": "fire",
+      "image": "/assets/incan/fire.png"
+    },
+    {
+      "id": "fire2",
+      "kind": "hazard",
+      "hazard": "fire",
+      "image": "/assets/incan/fire.png"
+    },
+    {
+      "id": "rocks0",
+      "kind": "hazard",
+      "hazard": "rocks",
+      "image": "/assets/incan/rocks.png"
+    },
+    {
+      "id": "rocks1",
+      "kind": "hazard",
+      "hazard": "rocks",
+      "image": "/assets/incan/rocks.png"
+    },
+    {
+      "id": "rocks2",
+      "kind": "hazard",
+      "hazard": "rocks",
+      "image": "/assets/incan/rocks.png"
+    },
+    {
+      "id": "mummy0",
+      "kind": "hazard",
+      "hazard": "mummy",
+      "image": "/assets/incan/mummy.png"
+    },
+    {
+      "id": "mummy1",
+      "kind": "hazard",
+      "hazard": "mummy",
+      "image": "/assets/incan/mummy.png"
+    },
+    {
+      "id": "mummy2",
+      "kind": "hazard",
+      "hazard": "mummy",
+      "image": "/assets/incan/mummy.png"
+    },
+    {
+      "id": "a0",
+      "kind": "artifact",
+      "art": 0,
+      "image": "/assets/incan/artifact-0.png"
+    },
+    {
+      "id": "a1",
+      "kind": "artifact",
+      "art": 1,
+      "image": "/assets/incan/artifact-1.png"
+    },
+    {
+      "id": "a2",
+      "kind": "artifact",
+      "art": 2,
+      "image": "/assets/incan/artifact-2.png"
+    },
+    {
+      "id": "a3",
+      "kind": "artifact",
+      "art": 3,
+      "image": "/assets/incan/artifact-3.png"
+    },
+    {
+      "id": "a4",
+      "kind": "artifact",
+      "art": 4,
+      "image": "/assets/incan/artifact-4.png"
+    }
+  ]
+}
