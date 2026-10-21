@@ -1,0 +1,590 @@
+{
+  "limitBytes": 50000,
+  "count": 97,
+  "maxBytes": 49957,
+  "totalBytes": 1360307,
+  "files": [
+    {
+      "file": "base-female.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 18008
+    },
+    {
+      "file": "avatar0.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 27261
+    },
+    {
+      "file": "avatar0-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 16255
+    },
+    {
+      "file": "avatar1.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 25115
+    },
+    {
+      "file": "avatar1-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 16905
+    },
+    {
+      "file": "avatar2.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 26671
+    },
+    {
+      "file": "avatar2-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 16273
+    },
+    {
+      "file": "avatar3.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 25468
+    },
+    {
+      "file": "avatar3-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 16520
+    },
+    {
+      "file": "avatar4.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 19096
+    },
+    {
+      "file": "avatar4-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 17034
+    },
+    {
+      "file": "avatar5.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 20144
+    },
+    {
+      "file": "avatar5-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 17038
+    },
+    {
+      "file": "avatar6.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 29474
+    },
+    {
+      "file": "avatar6-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 18667
+    },
+    {
+      "file": "avatar7.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 26254
+    },
+    {
+      "file": "avatar7-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 16821
+    },
+    {
+      "file": "avatar8.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 26466
+    },
+    {
+      "file": "avatar8-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 17006
+    },
+    {
+      "file": "avatar9.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 24926
+    },
+    {
+      "file": "avatar9-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 16889
+    },
+    {
+      "file": "frame0.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 18723
+    },
+    {
+      "file": "frame0-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 9736
+    },
+    {
+      "file": "frame1.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 16636
+    },
+    {
+      "file": "frame1-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 9112
+    },
+    {
+      "file": "frame2.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 16979
+    },
+    {
+      "file": "frame2-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 9695
+    },
+    {
+      "file": "frame3.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 19097
+    },
+    {
+      "file": "frame3-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 10738
+    },
+    {
+      "file": "frame4.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 16645
+    },
+    {
+      "file": "frame4-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 8774
+    },
+    {
+      "file": "frame5.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 19269
+    },
+    {
+      "file": "frame5-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 10510
+    },
+    {
+      "file": "frame6.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 19974
+    },
+    {
+      "file": "frame6-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 10079
+    },
+    {
+      "file": "frame7.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 15876
+    },
+    {
+      "file": "frame7-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 8156
+    },
+    {
+      "file": "frame8.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 16727
+    },
+    {
+      "file": "frame8-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 9158
+    },
+    {
+      "file": "frame9.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 17215
+    },
+    {
+      "file": "frame9-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 8834
+    },
+    {
+      "file": "s0-background.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 21970
+    },
+    {
+      "file": "s0-background-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 8199
+    },
+    {
+      "file": "s0-hair.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 6783
+    },
+    {
+      "file": "s0-hair-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 6187
+    },
+    {
+      "file": "s0-top.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 6502
+    },
+    {
+      "file": "s0-top-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 5902
+    },
+    {
+      "file": "s0-bottom.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 11810
+    },
+    {
+      "file": "s0-bottom-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 4486
+    },
+    {
+      "file": "s0-hand.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 2015
+    },
+    {
+      "file": "s0-hand-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 1685
+    },
+    {
+      "file": "s1-background.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 33618
+    },
+    {
+      "file": "s1-background-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 13553
+    },
+    {
+      "file": "s1-hair.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 6681
+    },
+    {
+      "file": "s1-hair-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 6140
+    },
+    {
+      "file": "s1-top.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 7182
+    },
+    {
+      "file": "s1-top-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 6617
+    },
+    {
+      "file": "s1-bottom.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 8710
+    },
+    {
+      "file": "s1-bottom-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 3382
+    },
+    {
+      "file": "s1-hand.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 3350
+    },
+    {
+      "file": "s1-hand-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 2876
+    },
+    {
+      "file": "s2-background.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 22361
+    },
+    {
+      "file": "s2-background-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 8236
+    },
+    {
+      "file": "s2-hair.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 17798
+    },
+    {
+      "file": "s2-hair-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 9283
+    },
+    {
+      "file": "s2-dress.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 16166
+    },
+    {
+      "file": "s2-dress-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 3933
+    },
+    {
+      "file": "s2-hand.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 1378
+    },
+    {
+      "file": "s2-hand-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 1098
+    },
+    {
+      "file": "s3-background.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 23900
+    },
+    {
+      "file": "s3-background-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 9206
+    },
+    {
+      "file": "s3-hair.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 11024
+    },
+    {
+      "file": "s3-hair-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 6303
+    },
+    {
+      "file": "s3-dress.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 17753
+    },
+    {
+      "file": "s3-dress-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 4550
+    },
+    {
+      "file": "s3-hand.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 3449
+    },
+    {
+      "file": "s3-hand-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 2991
+    },
+    {
+      "file": "s4-background.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 42087
+    },
+    {
+      "file": "s4-background-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 6691
+    },
+    {
+      "file": "s4-hair.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 12438
+    },
+    {
+      "file": "s4-hair-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 6424
+    },
+    {
+      "file": "s4-top.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 6216
+    },
+    {
+      "file": "s4-top-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 5644
+    },
+    {
+      "file": "s4-bottom.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 13443
+    },
+    {
+      "file": "s4-bottom-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 5028
+    },
+    {
+      "file": "s4-hand.png",
+      "width": 192,
+      "height": 288,
+      "bytes": 3691
+    },
+    {
+      "file": "s4-hand-thumb.png",
+      "width": 96,
+      "height": 96,
+      "bytes": 3212
+    },
+    {
+      "file": "effect0.png",
+      "width": 384,
+      "height": 256,
+      "bytes": 24562
+    },
+    {
+      "file": "effect1.png",
+      "width": 384,
+      "height": 256,
+      "bytes": 24825
+    },
+    {
+      "file": "effect2.png",
+      "width": 384,
+      "height": 256,
+      "bytes": 49957
+    },
+    {
+      "file": "effect3.png",
+      "width": 384,
+      "height": 256,
+      "bytes": 24583
+    },
+    {
+      "file": "effect4.png",
+      "width": 384,
+      "height": 256,
+      "bytes": 20155
+    },
+    {
+      "file": "title0.png",
+      "width": 192,
+      "height": 64,
+      "bytes": 16430
+    },
+    {
+      "file": "title1.png",
+      "width": 192,
+      "height": 64,
+      "bytes": 13270
+    },
+    {
+      "file": "title2.png",
+      "width": 192,
+      "height": 64,
+      "bytes": 13426
+    },
+    {
+      "file": "title3.png",
+      "width": 192,
+      "height": 64,
+      "bytes": 14270
+    },
+    {
+      "file": "title4.png",
+      "width": 192,
+      "height": 64,
+      "bytes": 16654
+    }
+  ]
+}
