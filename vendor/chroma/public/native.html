@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f4f3ec"><title>染域 CHROMA — 把世界染成你的颜色</title><link rel="stylesheet" href="/chroma/native-style.css"></head>
+<body>
+<header><a class="brand" href="/?game=chroma" id="tongzhuo-home" aria-label="返回同桌"><span class="brand-icon">✳</span> 染域<span class="brand-en">CHROMA</span></a><div class="header-right"><span>游戏提供者：ww</span><button class="icon-button" id="tongzhuo-chat">房间聊天</button><button class="icon-button" id="tongzhuo-tutorial">新手教程</button><span class="live-dot"></span><span id="connection">局域网桌游</span><button class="icon-button" id="catalog-button">强化牌库</button><button class="icon-button" id="rules-button">玩法指南 ↗</button></div></header>
+<main id="app"></main>
+<div id="toast" role="status"></div>
+<dialog id="augment-draft" class="draft-modal" aria-label="选择强化卡牌"></dialog>
+<dialog id="tutorial-augment" class="draft-modal" aria-label="教程强化选牌"></dialog>
+<dialog id="ink-empty" class="ink-empty-dialog" aria-labelledby="ink-empty-title"><span class="eyebrow">YOUR TURN / 回合提醒</span><h2 id="ink-empty-title">墨水已用完，记得结束回合！</h2><p>点击「结束回合」让下一位玩家行动。<br>如果强化仍允许免费行动，也可以继续操作。</p><div class="ink-empty-actions"><button class="button ghost" id="ink-continue">继续操作</button><button class="button primary" id="ink-end">结束回合 →</button></div></dialog>
+<dialog id="player-history" class="player-history-dialog" aria-label="玩家详情与历史"></dialog>
+<dialog id="anchor-shop" class="anchor-shop" aria-label="锚点藏馆"></dialog>
+<dialog id="card-library" class="card-library" aria-label="强化牌库"></dialog>
+<dialog id="rules"><div class="dialog-head"><span class="eyebrow">HOW TO PLAY</span><button class="icon-button" id="close-rules">关闭 ×</button></div><h2>一滴墨水，<br>也能改变版图。</h2><div class="rule-grid"><section><b>01 / 染上你的颜色</b><p>每回合获得 3 点墨水，只能向己方领地的上下左右扩张。空地消耗 1 点，抢夺敌方地块消耗 2 点。</p></section><section><b>02 / 守住关键地块</b><p>加固己方地块消耗 1 点墨水，让对手抢色多花 1 点。带 ✳ 的出生点永远属于你，不能被抢夺。</p></section><section><b>03 / 把握随机机会</b><p>初始获得 2 张战术牌，之后每回合开始抽 1 张，上限 4 张。每轮天气会影响墨水或行动费用，所有玩家共享同一天气。</p></section><section><b>04 / 染井决定胜负</b><p>普通地块 1 分，带 ◈ 的染井总计 4 分。所有人完成回合才进入下一轮，最后一轮结束时按占领分数结算，允许并列获胜。</p></section><section><b>05 / 选择你的强化路线</b><p>每 2 / 3 / 5 个完整轮次（默认 3 轮），全员从 3 张强化中选 1 张，持续整局，每次可免费重抽一次。每次全场统一一个随机品阶，每三次打乱三阶顺序；所有候选与重抽都严格同阶，每阶 12 种。所有人选完后继续。</p></section><section><b>06 / 改写基础规则</b><p>强化会叠加并覆盖基础规则。回归基本功：禁用三种战术技能，1 墨最多染两格；亮出你的剑：禁用飞染，普通抢色仅需 1 墨且无视加固。出生点始终受保护。</p></section></div><p class="fine">岩石不可占领 · 墨水不跨回合保留 · 手动结束回合后才轮到下一位 · 顺序整局固定，首位随机 · 泼墨仅扩散至空地</p></dialog>
+<script src="/chroma/native-app.js" defer></script>
+<script src="/chroma/native-bridge.js" defer></script></body></html>
