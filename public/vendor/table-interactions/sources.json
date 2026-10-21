@@ -1,0 +1,63 @@
+{
+  "retrieved": "2026-10-16",
+  "sources": {
+    "lolPing": {
+      "repository": "https://github.com/darrenprx/lolPing",
+      "commit": "b947aab8d379015687117544191160bd82141954"
+    },
+    "twemoji": {
+      "repository": "https://github.com/jdecked/twemoji",
+      "commit": "b6b55fef1e8636b540a6d016a4729ca8cdf2e60b"
+    }
+  },
+  "assets": [
+    {
+      "name": "question",
+      "file": "question.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/b6b55fef1e8636b540a6d016a4729ca8cdf2e60b/assets/72x72/2753.png",
+      "sha256": "ac1daab1db4fbeec9105c359a5d58fb8519b27eb2fc8f6644ef97cf74bc2cdac"
+    },
+    {
+      "name": "arrow",
+      "file": "arrow.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/b6b55fef1e8636b540a6d016a4729ca8cdf2e60b/assets/72x72/27a1.png",
+      "sha256": "d5b7288f327425755badd771bd9807addb77d9a752890906f95eddfed131b627"
+    },
+    {
+      "name": "tomato",
+      "file": "tomato.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/b6b55fef1e8636b540a6d016a4729ca8cdf2e60b/assets/72x72/1f345.png",
+      "sha256": "0b04015e684d31050d438f6a2ca2e2abb750457748c3bf3de8ad8cd235b2de1b"
+    },
+    {
+      "name": "rose",
+      "file": "rose.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/b6b55fef1e8636b540a6d016a4729ca8cdf2e60b/assets/72x72/1f339.png",
+      "sha256": "790b0117900978e3cf6a486aea8cadb16de3bc0083a52fc3c22c8f6bf32eb328"
+    },
+    {
+      "name": "danger",
+      "file": "danger.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/b6b55fef1e8636b540a6d016a4729ca8cdf2e60b/assets/72x72/26a0.png",
+      "sha256": "7a03a74a92cb2f04b7f3e0338f51a3c4dfc1491a8f046b722f8a951502a7740e"
+    },
+    {
+      "name": "like",
+      "file": "like.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/b6b55fef1e8636b540a6d016a4729ca8cdf2e60b/assets/72x72/1f44d.png",
+      "sha256": "42b43325b3edacba2a0e72b742bdc6fc5e4bc2ad38adca271fcc6d8353639887"
+    },
+    {
+      "name": "clap",
+      "file": "clap.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/b6b55fef1e8636b540a6d016a4729ca8cdf2e60b/assets/72x72/1f44f.png",
+      "sha256": "876e139116fc16aa3c4d125fc455be61e9c68bf474539ca822a2d2edee6a7459"
+    },
+    {
+      "name": "heart",
+      "file": "heart.png",
+      "source": "https://raw.githubusercontent.com/jdecked/twemoji/b6b55fef1e8636b540a6d016a4729ca8cdf2e60b/assets/72x72/2764.png",
+      "sha256": "68da7c6dc7d9c0456174f2575abe8f8abd52cde7a4017700579519173a8a4a34"
+    }
+  ]
+}
