@@ -44,3 +44,21 @@
 .spectator-join{margin-top:8px;padding:6px 10px;font-size:12px;white-space:nowrap}.spectator-join:disabled{opacity:.55;cursor:default}
 
 #remindReadyButton{margin-left:10px}#readyReminderDialog{max-width:420px}#readyReminderDialog p{margin-top:14px;color:var(--muted)}.ready-reminder-actions{display:flex;justify-content:flex-end;gap:10px;margin-top:22px}
+
+.bot-controls{margin:16px 0}.bot-controls button{margin:4px}.bot-controls small{display:block;margin-top:10px;color:#776b58}.tutorial-guide{padding:16px 20px;background:#fff6da;border:1px solid #d8bb70;border-radius:12px;margin-bottom:12px;line-height:1.65}.tutorial-guide strong{color:#745218}.tutorial-guide p{margin:6px 0}.tutorial-guide.hidden{display:none}
+
+/* Guided practice: short illustrated bubbles beside the current action. */
+.game-heading #tutorialStart{background:#854117;color:#fff;border:2px solid #69300d;font-size:14px;font-weight:700;padding:13px 20px;box-shadow:0 3px 0 #542709;opacity:1;flex-shrink:0}.game-heading #tutorialStart:hover{background:#69300d}.game-heading #tutorialStart:focus-visible{outline:3px solid #fff;outline-offset:3px}
+#tutorialGuide{position:fixed;z-index:90;width:280px;max-width:calc(100vw - 24px);display:flex;align-items:center;gap:12px;background:#fffdf5;border:2px solid #bd721e;border-radius:18px;padding:14px;box-shadow:0 8px 28px #50310c30;line-height:1.5;margin:0;pointer-events:none;box-sizing:border-box}#tutorialGuide.hidden{display:none}#tutorialGuide>img{width:54px;height:60px;object-fit:contain;flex:none}#tutorialGuide strong{font-size:16px;color:#66350b}#tutorialGuide p{font-size:13px;color:#493b2c;margin:5px 0 0}.tutorial-hand{position:fixed;font-size:36px;line-height:1;filter:drop-shadow(0 2px 2px #76430866);animation:tutorial-point 1s ease-in-out infinite;pointer-events:none}.tutorial-target{outline:3px solid #e59420!important;outline-offset:4px;box-shadow:0 0 0 7px #ffdb8c66!important}@keyframes tutorial-point{50%{transform:translateY(-7px)}}@media(prefers-reduced-motion:reduce){.tutorial-hand{animation:none}}
+
+#tutorialGuide::after{content:"";position:absolute;top:calc(50% - 8px);width:14px;height:14px;background:#fffdf5;transform:rotate(45deg)}#tutorialGuide[data-side="right"]::after{left:-9px;border-left:2px solid #bd721e;border-bottom:2px solid #bd721e}#tutorialGuide[data-side="left"]::after{right:-9px;border-top:2px solid #bd721e;border-right:2px solid #bd721e}
+
+#tutorialGuide{width:350px;pointer-events:auto}#tutorialGuide button{background:#486b48;color:#fff;border:1px solid #345334;padding:8px 10px;border-radius:7px;margin-top:10px;font-size:12px;cursor:pointer}#tutorialGuide .guided-region-tabs{display:flex;flex-wrap:wrap;gap:5px}#tutorialGuide .guided-region-tabs button{background:#fff3cb;color:#543d17;border-color:#cba461;padding:5px 8px}.tutorial-hand{pointer-events:none}
+
+
+
+#tutorialGuide .guided-reason{color:#315c43;border-left:3px solid #8ea87a;padding-left:8px;margin:9px 0;font-weight:600}
+
+#tutorialGuide .guided-progress{display:block;margin-top:8px;color:#6e654e;font-size:11px}
+
+.song-teaching-relation{display:flex;gap:8px;margin-top:10px}.song-teaching-relation>span{flex:1;text-align:center}.song-teaching-relation img{width:60px;height:48px;object-fit:cover;border-radius:5px}.song-teaching-relation small{display:block;font-size:11px}.song-teaching-flow p{border-top:1px solid #e4d4b4;padding-top:7px}#tutorialGuide .song-teaching-flow strong{font-size:13px;display:block}.song-teaching-flow span{font-size:12px;line-height:1.6}.song-concept-controls{display:flex;gap:6px}.song-teaching-phases{display:flex;flex-wrap:wrap;gap:4px;font-size:10px;margin-top:10px;color:#887f6e}.song-teaching-phases span{padding:3px 5px;background:#f1eee4;border-radius:4px}.song-teaching-phases .current{background:#dce9cd;color:#294c25;font-weight:700}#tutorialGuide .song-concept-review{font-size:10px;background:transparent;color:#796644;padding:3px;border:0;text-decoration:underline}

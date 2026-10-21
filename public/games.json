@@ -1,4 +1,57 @@
 {
- "carcassonne":{"name":"卡卡颂","english":"CARCASSONNE","edition":"基础版","minPlayers":2,"maxPlayers":5,"duration":"35–60 分钟","category":"策略 · 地块拼接","description":"轮流拼接城市、道路与田野，派出随从争取得分。一块地，一条路，一座属于你们的城。","cover":"/assets/cover-carcassonne.png"},
- "incangold":{"name":"印加寻宝","english":"INCAN GOLD","edition":"神器版","minPlayers":3,"maxPlayers":8,"duration":"20–40 分钟","category":"冒险 · 同时抉择","description":"探索古老神庙，平分发现的宝石。每一步同时选择继续或返回：带走财富，还是冒险寻找独占的神器？","cover":"/assets/incan/temple.png"}
+ "carcassonne": {
+  "name": "卡卡颂",
+  "english": "CARCASSONNE",
+  "edition": "基础版",
+  "minPlayers": 2,
+  "maxPlayers": 5,
+  "duration": "35–60 分钟",
+  "category": "策略 · 地块拼接",
+  "description": "轮流拼接城市、道路与田野，派出随从争取得分。一块地，一条路，一座属于你们的城。",
+  "cover": "/assets/cover-carcassonne.png"
+ },
+ "incangold": {
+  "name": "印加寻宝",
+  "english": "INCAN GOLD",
+  "edition": "神器版",
+  "minPlayers": 3,
+  "maxPlayers": 8,
+  "duration": "20–40 分钟",
+  "category": "冒险 · 同时抉择",
+  "description": "探索古老神庙，平分发现的宝石。每一步同时选择继续或返回：带走财富，还是冒险寻找独占的神器？",
+  "cover": "/assets/incan/temple.png"
+ },
+ "song": {
+  "name": "大宋百商图",
+  "english": "SONG DYNASTY MERCHANTS",
+  "edition": "方桌经营版 · 数字改编",
+  "minPlayers": 2,
+  "maxPlayers": 4,
+  "duration": "35–60 分钟",
+  "category": "经营 · 菜谱构筑",
+  "description": "化身汴京少东家，开发菜品、营建商铺、招待来客。率先建成八家店铺，并持有五十两银子。十二种有限店铺、事件联动与全桌同步结算。",
+  "cover": "/assets/song/cover.png"
+ },
+ "wordmahjong": {
+  "name": "文字麻将",
+  "english": "WORD MAHJONG",
+  "edition": "十三字 · 众议成句",
+  "minPlayers": 2,
+  "maxPlayers": 6,
+  "duration": "20–40 分钟",
+  "category": "文字 · 吃碰 · 问答",
+  "description": "字作牌，句作胡。收集十三张字牌与标点，吃碰换字，问答交锋；本地初判，全桌众议。局外升级，自选技能树。",
+  "cover": "/word-cover.svg"
+ },
+ "chroma": {
+  "name": "染域",
+  "english": "CHROMA",
+  "edition": "0.5.1 · 游戏提供者：ww",
+  "minPlayers": 2,
+  "maxPlayers": 8,
+  "duration": "15–40 分钟",
+  "category": "策略 · 领地染色",
+  "description": "扩张领地，争夺染井，用战术牌与强化改变战局。游戏提供者：ww。",
+  "cover": "/chroma/cover.svg"
+ }
 }
