@@ -1,0 +1,29 @@
+{
+  "limitBytes": 50000,
+  "files": [
+    {
+      "file": "cry.webp",
+      "bytes": 1526,
+      "width": 48,
+      "height": 48
+    },
+    {
+      "file": "escape.webp",
+      "bytes": 48602,
+      "width": 384,
+      "height": 512
+    },
+    {
+      "file": "failure.webp",
+      "bytes": 40166,
+      "width": 384,
+      "height": 512
+    },
+    {
+      "file": "victory.webp",
+      "bytes": 46798,
+      "width": 384,
+      "height": 512
+    }
+  ]
+}
