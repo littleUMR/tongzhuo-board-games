@@ -6,3 +6,6 @@ node_modules/
 *.tmp
 .DS_Store
 Thumbs.db
+
+**/data/
+**/*-fixture-*/

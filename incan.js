@@ -5,7 +5,7 @@ function assert(ok,message){if(!ok)throw new Error(message);}
 function baseDeck(){return [...TREASURES.map((value,i)=>({id:`t${i}`,kind:'treasure',value})),...HAZARDS.flatMap(hazard=>[0,1,2].map(i=>({id:`${hazard}${i}`,kind:'hazard',hazard})))];}
 function shuffle(cards,random=Math.random){const a=cards.map(c=>({...c}));for(let i=a.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 function log(g,text){g.log.unshift(text);g.log=g.log.slice(0,100);}
-function event(g,data){g.eventSeq=(g.eventSeq||0)+1;g.events=[...(g.events||[]),{id:g.eventSeq,round:g.round,step:g.step,...data}].slice(-60);}
+function event(g,data){g.eventSeq=(g.eventSeq||0)+1;g.events=[...(g.events||[]),{id:g.eventSeq,at:Date.now(),round:g.round,step:g.step,...data}].slice(-60);}
 function remove(g,id){g.pool=g.pool.filter(c=>c.id!==id);}
 function endRound(g,players,reason){
  const lost=g.trail.filter(c=>c.kind==='artifact'&&!c.claimedBy);
@@ -18,6 +18,7 @@ function endRound(g,players,reason){
  log(g,`第 ${g.round} 轮结束：${reason}`);
  if(g.phase==='finished'){
   const best=Math.max(...players.map(p=>p.score));const tied=players.filter(p=>p.score===best);const mostArtifacts=Math.max(...tied.map(p=>p.artifacts.length));g.winners=tied.filter(p=>p.artifacts.length===mostArtifacts).map(p=>p.id);
+  g.finishedAt=Date.now();
   log(g,`五轮结束，${players.filter(p=>g.winners.includes(p.id)).map(p=>p.name).join('、')} 获胜。`);
  }
 }
@@ -58,6 +59,7 @@ function choose(g,players,playerId,choice,step){
   for(const id of returning){const p=players.find(p=>p.id===id);const secured=p.pocket+share;p.score+=secured;p.pocket=0;log(g,`${p.name} 返回营地，保存 ${secured} 颗宝石（含路上分得 ${share} 颗）。`);}
   if(returning.length===1){const p=players.find(p=>p.id===returning[0]);for(const c of g.trail.filter(c=>c.kind==='artifact'&&!c.claimedBy)){const value=g.rescuedArtifacts<3?5:10;g.rescuedArtifacts++;p.score+=value;p.artifacts.push({id:c.id,art:c.art,value});c.claimedBy=p.id;c.artifactValue=value;remove(g,c.id);log(g,`${p.name} 独自带回神器，价值 ${value} 分。`);}}
   for(const d of departures){d.pathShare=share;d.artifacts=g.trail.filter(c=>c.kind==='artifact'&&c.claimedBy===d.playerId).map(c=>({art:c.art,value:c.artifactValue}));d.total=d.backpack+share+d.artifacts.reduce((n,a)=>n+a.value,0);}
+  g.millionEscapes=[...new Set([...(g.millionEscapes||[]),...departures.filter(d=>d.total>=40).map(d=>d.playerId)])];
   g.roundDepartures=[...(g.roundDepartures||[]),...departures];event(g,{kind:'return',departures,pathBefore:leftovers,pathLeft:rest});
  }
  g.active=g.active.filter(id=>!returning.includes(id));g.choices={};
