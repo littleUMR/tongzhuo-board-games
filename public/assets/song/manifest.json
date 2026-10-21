@@ -1,0 +1,150 @@
+{
+  "source": "song-atlas-original.png",
+  "method": "built-in image_gen; 4x3 atlas split without repainting",
+  "assets": [
+    {
+      "name": "cover",
+      "file": "cover.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        0,
+        0,
+        362,
+        362
+      ]
+    },
+    {
+      "name": "shop-wheel",
+      "file": "shop-wheel.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        362,
+        0,
+        724,
+        362
+      ]
+    },
+    {
+      "name": "shop-fortune",
+      "file": "shop-fortune.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        724,
+        0,
+        1086,
+        362
+      ]
+    },
+    {
+      "name": "shop-theatre",
+      "file": "shop-theatre.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        1086,
+        0,
+        1448,
+        362
+      ]
+    },
+    {
+      "name": "shop-jewelry",
+      "file": "shop-jewelry.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        0,
+        362,
+        362,
+        724
+      ]
+    },
+    {
+      "name": "menu-rice",
+      "file": "menu-rice.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        362,
+        362,
+        724,
+        724
+      ]
+    },
+    {
+      "name": "menu-tofu",
+      "file": "menu-tofu.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        724,
+        362,
+        1086,
+        724
+      ]
+    },
+    {
+      "name": "menu-fish",
+      "file": "menu-fish.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        1086,
+        362,
+        1448,
+        724
+      ]
+    },
+    {
+      "name": "menu-crab",
+      "file": "menu-crab.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        0,
+        724,
+        362,
+        1086
+      ]
+    },
+    {
+      "name": "guest-scholar",
+      "file": "guest-scholar.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        362,
+        724,
+        724,
+        1086
+      ]
+    },
+    {
+      "name": "guest-lady",
+      "file": "guest-lady.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        724,
+        724,
+        1086,
+        1086
+      ]
+    },
+    {
+      "name": "guest-merchant",
+      "file": "guest-merchant.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        1086,
+        724,
+        1448,
+        1086
+      ]
+    }
+  ]
+}

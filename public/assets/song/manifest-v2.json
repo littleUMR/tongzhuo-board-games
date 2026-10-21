@@ -1,0 +1,194 @@
+{
+  "generator": "built-in imagegen",
+  "sources": [
+    "shop-pieces-v2.png",
+    "dishes-v2.png",
+    "guests-v2.png",
+    "shop-pieces-v3.png"
+  ],
+  "count": 26,
+  "assets": [
+    {
+      "file": "dish-1-1.png",
+      "width": 443,
+      "height": 443,
+      "bytes": 541798,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "dish-1-2.png",
+      "width": 443,
+      "height": 443,
+      "bytes": 545327,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "dish-2-1.png",
+      "width": 443,
+      "height": 443,
+      "bytes": 522316,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "dish-2-2.png",
+      "width": 443,
+      "height": 443,
+      "bytes": 512049,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "dish-3-1.png",
+      "width": 443,
+      "height": 443,
+      "bytes": 497125,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "dish-3-2.png",
+      "width": 443,
+      "height": 443,
+      "bytes": 532781,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "dish-4-1.png",
+      "width": 443,
+      "height": 443,
+      "bytes": 512389,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "dish-4-2.png",
+      "width": 443,
+      "height": 443,
+      "bytes": 527367,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "guest-elder.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 743460,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "guest-embroiderer.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 744558,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "guest-gentleman.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 750397,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "guest-painter.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 741108,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "guest-tea.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 731185,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "guest-traveler.png",
+      "width": 512,
+      "height": 512,
+      "bytes": 742438,
+      "cornerAlpha": 255
+    },
+    {
+      "file": "piece-book.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 262941,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-cuju.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 212909,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-drink.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 219608,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-fortune.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 215269,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-jewelry.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 236563,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-porcelain.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 249279,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-silk.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 191036,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-story.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 246422,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-tea.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 260368,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-theatre.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 233776,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-wheel.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 219809,
+      "cornerAlpha": 0
+    },
+    {
+      "file": "piece-wine.png",
+      "width": 362,
+      "height": 362,
+      "bytes": 252546,
+      "cornerAlpha": 0
+    }
+  ]
+}

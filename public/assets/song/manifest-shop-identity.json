@@ -1,0 +1,174 @@
+{
+  "source": "shop-pieces-v3.png",
+  "method": "imagegen redesign; alpha connected-component bounds; aspect-preserving fit to transparent 362px canvas",
+  "assets": [
+    {
+      "id": "wheel",
+      "file": "piece-wheel.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        36,
+        72,
+        320,
+        283
+      ],
+      "cornerAlpha": 0,
+      "bytes": 219809
+    },
+    {
+      "id": "fortune",
+      "file": "piece-fortune.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        401,
+        32,
+        274,
+        325
+      ],
+      "cornerAlpha": 0,
+      "bytes": 215269
+    },
+    {
+      "id": "theatre",
+      "file": "piece-theatre.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        730,
+        74,
+        335,
+        285
+      ],
+      "cornerAlpha": 0,
+      "bytes": 233776
+    },
+    {
+      "id": "jewelry",
+      "file": "piece-jewelry.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        1122,
+        70,
+        280,
+        297
+      ],
+      "cornerAlpha": 0,
+      "bytes": 236563
+    },
+    {
+      "id": "tea",
+      "file": "piece-tea.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        41,
+        386,
+        317,
+        312
+      ],
+      "cornerAlpha": 0,
+      "bytes": 260368
+    },
+    {
+      "id": "wine",
+      "file": "piece-wine.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        406,
+        399,
+        300,
+        296
+      ],
+      "cornerAlpha": 0,
+      "bytes": 252546
+    },
+    {
+      "id": "drink",
+      "file": "piece-drink.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        741,
+        413,
+        338,
+        289
+      ],
+      "cornerAlpha": 0,
+      "bytes": 219608
+    },
+    {
+      "id": "story",
+      "file": "piece-story.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        1126,
+        387,
+        292,
+        317
+      ],
+      "cornerAlpha": 0,
+      "bytes": 246422
+    },
+    {
+      "id": "book",
+      "file": "piece-book.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        36,
+        715,
+        321,
+        312
+      ],
+      "cornerAlpha": 0,
+      "bytes": 262941
+    },
+    {
+      "id": "porcelain",
+      "file": "piece-porcelain.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        391,
+        728,
+        307,
+        304
+      ],
+      "cornerAlpha": 0,
+      "bytes": 249279
+    },
+    {
+      "id": "silk",
+      "file": "piece-silk.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        728,
+        766,
+        362,
+        262
+      ],
+      "cornerAlpha": 0,
+      "bytes": 191036
+    },
+    {
+      "id": "cuju",
+      "file": "piece-cuju.png",
+      "width": 362,
+      "height": 362,
+      "sourceBox": [
+        1117,
+        742,
+        313,
+        288
+      ],
+      "cornerAlpha": 0,
+      "bytes": 212909
+    }
+  ]
+}
